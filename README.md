@@ -15,3 +15,7 @@ A highly biased and opinionated list of awesome Odoo tools and resources.
 - **[odoo-module-migrator](https://github.com/OCA/odoo-module-migrator)** — OCA tool that automates the mechanical parts of migrating Odoo modules from one major version to the next.
 
 - **[odoo-watch](https://github.com/trobz/odoo-watch)** — Keeps an eye on Odoo-related changes (Odoo.sh FAQ, Odoo Enterprise contract, VN Official Partners) and alerts when something changes.
+
+- **[odooly](https://github.com/tinyerp/odooly)** — Interactive shell and Python library for browsing and querying Odoo data via XML-RPC, JSON-RPC, or the web client API.
+
+- **[click-odoo](https://github.com/acsone/click-odoo)** — Framework for building robust, reusable Odoo scripts using Click, with environment initialization, database connection handling, and transaction management baked in.
